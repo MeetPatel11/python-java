@@ -1,10 +1,9 @@
 name = input('Enter Your name : ')
 
-print(name, end=' ')
+print('\n', name, end=' ')
 a = float(input('Enter a Number : '))
-print()
 
-print('Multiplication Table for ', a)
+print('\nMultiplication Table for ', a)
 print()
 print(f'    1.0  * {a} = {1 * a}    ')
 print(f'    2.0  * {a} = {2 * a}    ')
