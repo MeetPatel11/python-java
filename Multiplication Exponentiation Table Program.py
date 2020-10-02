@@ -1,5 +1,5 @@
 name = input('Enter Your name : ')
-print()
+
 print(name, end=' ')
 a = float(input('Enter a Number : '))
 print()
